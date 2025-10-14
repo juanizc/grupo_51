@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<cabeza>
+  <meta charset="UTF-8">
+  <title>Resumen de Counter-Strike 2</title>
+  <meta name="description" content="Resumen completo del juego CS2, comparaciones, modo competitivo y eSports.">
+  <link rel="hoja de estilo" href="styles.css">
+  <estilo>
+    cuerpo {
+      familia de fuentes: Arial, sans-serif;
+      margen: 20px;
+      color de fondo: #f4f4f4;
+    }
+    encabezado, sección, pie de página {
+      color de fondo: #fff;
+      relleno: 20px;
+      margen inferior: 20px;
+      radio del borde: 8px;
+    }
+    imagen {
+      ancho máximo: 100%;
+      altura:auto;
+      radio del borde: 6px;
+    }
+  </estilo>
+</cabeza>
+<cuerpo>
+
+  <encabezado>
+    Counter-Strike 2 (CS2)
+    <p>Un shooter táctico que redefine la competencia en primera persona.</p>
+  </encabezado>
+
+  <sección>
+    <artículo>
+      <h2>Bases del juego</h2>
+      <p>CS2 es la evolución de Counter-Strike: Global Offensive, desarrollado por Valve. Dos equipos —terroristas y antiterroristas— compiten en rondas estratégicas donde deben colocar o desactivar bombas, rescatar rehenes o eliminar al equipo contrario. El juego se destaca por su precisión, economía interna y enfoque táctico.</p>
+    </artículo>
+
+    <hr>
+
+    <artículo>
+      <h2>Comparación con otros juegos</h2>
+      <ul>
+        <li>
+          Valorant
+          <p>Desarrollado por Riot Games, combina disparos tácticos con habilidades únicas por personaje. A diferencia de CS2, tiene un enfoque más accesible y fantástico.</p>
+        </li>
+        <li>
+          Rainbow Six Siege
+          <p>De Ubisoft, se centra en tácticas de infiltración y destrucción del entorno. Aunque comparte la estrategia, ofrece un ritmo más pausado y complejo.</p>
+        </li>
+      </ul>
+      <p>CS2 se diferencia por su pureza mecánica: sin habilidades mágicas ni destrucción ambiental, lo que lo convierte en un referente del shooter competitivo clásico.</p>
+    </artículo>
+
+    <hr>
+
+    <artículo>
+      <h2>Modo competitivo</h2>
+      <p>El modo competitivo de CS2 es el núcleo del juego. Partidas clasificatorias de 5 vs 5, rangos que reflejan habilidad y una economía interna que influye en cada ronda. La precisión, el trabajo en equipo y la toma de decisiones son clave para ascender en el ranking.</p>
+    </artículo>
+
+    <hr>
+
+    <artículo>
+      CS2 en los eSports
+      <p>CS2 es uno de los pilares de los eSports. Torneos como ESL Pro League, BLAST Premier y los Majors se reúnen con los mejores equipos del mundo. La escena profesional destaca por su nivel técnico, rivalidades históricas y una comunidad apasionada.</p>
+      <div>
+        <h3>s1mple en acción</h3>
+        <p>El jugador ucraniano s1mple es considerado uno de los mejores en la historia de Counter-Strike.</p>
+        <img src="https://preview.redd.it/who-are-the-best-players-of-all-time-v0-gv2o3a3vqf1f1.jpg?width=640&crop=smart&auto=webp&s=3ee1d67547800b18407e3a764c74ea0a5c1b03b5" alt="Esta es una imagen de Simple, es considerado por muchos el mejor jugador de counter-strike" style="width:640px;">
+      </div>
+    </artículo>
+  </sección>
+
+  <pie de página>
+    <p>© 2025 Resumen creado por Nahuel con ayuda de Copilot.</p>
+    <a href="https://www.counter-strike.net/cs2" target="_blank">Sitio oficial de CS2</a>
+  </pie de página>
+
+</cuerpo>
+</html>
